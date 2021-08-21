@@ -1,0 +1,101 @@
+1:04:09
+
+Programmers are translators.
+
+What is hacking?
+
+**Input -> System -> Output**
+
+What input to the system achieves my desired outcome?
+
+Pure model:
+Domain -> Function -> Range
+y = f(x)
+
+Figuring out how to make the function behave how you want. 
+
+
+Highbrow Software Engineering
+----
+
+1.Understand a complex system
+2.Modify the system to add a feature
+3.Ship the new system (test well and stuff) 
+
+
+Getting money
+----
+
+Capitalism is based around consent.
+
+Buyer
+Seller
+
+Both parties must consent to the transaction.
+
+Getting money in a capitalist system;
+	Convince others to give it to you.
+
+
+How do you make 1,000,000 from a product?
+
+$1 dollar from 1,000,000 people
+- Online only
+
+$1,000 dolllar from 1,000 people
+- A couple phone calls can be spent closing the deal
+
+1,000,000 dollar from 1 person
+- Tons can be spent closing the deal
+
+
+
+Wasting time:
+----
+
+Existentialism -- You make your own meaning.
+
+Don't fall in funnels.
+Don't be in skinner boxes.
+Don't be influenced by advertising.
+
+
+Are you learning something from nature?
+Good
+
+Are you learning something from people?
+Bad
+
+Object level skills will be useles with righ tools
+But meta level skills will not.
+
+College
+---
+
+Reject power over people
+- Ignored by the system
+- System cares deeply about power over people
+
+Embrace power over nature
+
+Power over people used to be everything.
+Hunter gatherer tribe
+
+Power over people is waning.
+Power over nature is waxing.
+
+
+Build a knowledge tree
+----
+
+-- New information fits into the tree
+-- "interpolation" is possible
+-- Framework for understanding
+
+Elon roots knowledge tree in Physics (modernist)
+George Hotz roots knowledge tree in Information (postmodernist)
+
+The question is not if the singularity is going to happen.
+The question is when and what will it look like.
+
+If you want to save the world you better learn how to tell stories.
